@@ -9,8 +9,8 @@ sections:
     content:
       title: |
         Trust & Application AI Lab
-#      image:
-#        filename: welcome.jpg
+      image:
+        filename: welcome.jpg
       text: |
         <br>
         
