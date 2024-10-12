@@ -10,8 +10,6 @@ sections:
       title: Trust \& Application AI Lab
       # image: filename: welcome.jpg
       text: TAI Lab was established in 2024 to become a world-class and influential research laboratory. Its areas of focus include  foundational graph models, AI4Protein, AI4Sports, and trustworthy LLMs, among others. TAI Lab is committed to high-quality research and fosters a highly inclusive environment, welcoming talented individuals from around the globe to join its team.
-    design:
-      columns: '1'
   
   - block: collection
     content:
