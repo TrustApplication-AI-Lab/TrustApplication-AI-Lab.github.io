@@ -8,14 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Trust & Application AI Lab
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+TAI Lab was established in 2024 to become a world-class and influential research laboratory. Its areas of focus include foundational graph models, AI4Protein, AI4Sports, and trustworthy large language models, among others. TAI Lab is committed to high-quality research and fosters a highly inclusive environment, welcoming talented individuals from around the globe to join its team.
   
   - block: collection
     content:
