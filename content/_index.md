@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Trust & Application AI Lab
+        Trust & Application AI La
       image: 
         filename: welcome.jpg
       text: |
