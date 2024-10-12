@@ -10,7 +10,7 @@ sections:
       title: |
         Trust & Application AI Lab
       image:
-        filename: welcome.jpg
+        filename: lab_logo.jpg
       text: |
         <br>
         
