@@ -1,46 +1,45 @@
 ---
 # Display name
-title: Yuliang Yan
+title: Haochun Tang
 
 # Full name (for SEO)
-first_name: Yuliang
-last_name: Yan
+first_name: Haochun
+last_name: Tang
 
 # Username (this should match the folder name)
 authors:
-  - yuliangyan
+  - haochuntang
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: PhD Student
+role: Research Intern
 
 # Organizations/Affiliations
 organizations:
-  - name: The Hong Kong University of Science and Technology (Guangzhou)
+  - name: Jilin University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Artificial Intelligence, Large Language Models, AI4Science and Graph Foundation Models.
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
   - Artificial Intelligence
-  - Large Language Models
-  - AI4Science
-  - Graph Foundation Models
+  - Computational Linguistics
+  - Information Retrieval
 
 education:
   courses:
     - course: PhD in Artificial Intelligence
-      institution: The Hong Kong University of Science and Technology (Guangzhou)
-      year: 2028
+      institution: Stanford University
+      year: 2012
     - course: MEng in Artificial Intelligence
-      institution: Fudan University
-      year: 2024
-    - course: BSc in Mathematics and Applied Mathematics
-      institution: Shanghai University
-      year: 2021
+      institution: Massachusetts Institute of Technology
+      year: 2009
+    - course: BSc in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -49,16 +48,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'yyan726@connect.hkust-gz.edu.cn'
+    link: 'mailto:test@example.org'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=ZukVBVUAAAAJ&hl=zh-CN
+    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/yuliangyan0807
+    link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -71,7 +70,9 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD Students
+  - Research Intern
 ---
 
-I’m currently a first year PhD at HKUST (GZ), surpervised by Prof Enyan DAI. Prior to this, I obtained my master’s degree from Fudan University, where I specialized in Natural Language Processing under the guidance of Professor Xiaoqing ZHENG in the FudanNLP Lab. My current research interests focus on Trustworthy LLMs, foundational models, and AI for Science.
+吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
