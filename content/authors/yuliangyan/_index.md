@@ -33,8 +33,8 @@ interests:
 education:
   courses:
     - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2024
+      institution: The Hong Kong University of Science and Technology (Guangzhou)
+      year: 2028
     - course: MEng in Artificial Intelligence
       institution: Fudan University
       year: 2024
