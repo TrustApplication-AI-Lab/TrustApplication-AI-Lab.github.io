@@ -13,9 +13,9 @@ sections:
       user_groups:
           - Principal Investigators
           - Visitors
+          - PhD Students
           - Research Assistant
           - Research Intern
-          - PhD Students
           - Researchers
           - Administration
           - Alumni
